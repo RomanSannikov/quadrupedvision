@@ -1,2 +1,12 @@
 *.zip
 data/
+dataset_balanced/
+dataset_v2/
+.dataset_v2.staging-*/
+.dataset_v2.backup-*/
+yolov8n.pt
+YOLOv8/
+.DS_Store
+dataset.yaml
+dataset_v2*.yaml
+__pycache__/
